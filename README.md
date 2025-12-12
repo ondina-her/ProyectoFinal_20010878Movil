@@ -16,7 +16,6 @@ Aplicación móvil desarrollada en Android Studio con Kotlin y Jetpack Compose p
 - Android Studio instalado (versión compatible con Kotlin 1.9.22 y Compose).
 - Dispositivo Android o emulador.
 
-  ```markdown
 ### Clonación del repositorio
 
 Puedes clonar el proyecto:
@@ -64,6 +63,3 @@ AndroidManifest.xml: configuración de la app.
 El proyecto incluye un archivo .gitignore para mantener el repositorio limpio.
 
 El código contiene advertencias menores (TODO, warnings), pero no afectan la funcionalidad.
-
-
-¿Quieres que te ayude a subir este archivo directamente desde Android Studio o prefieres copiarlo tú en GitHub? También puedo ayudarte a agregar capturas de pantalla si decides incluirlas.
